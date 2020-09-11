@@ -1,0 +1,18 @@
+{
+  "name": "@flatmax/mwc-slider-extended",
+  "version": "0.0.1",
+  "description": "extends the @material/mwc-slider to support floating point",
+  "main": "mwc-slider-extended.js",
+  "author": "Mahdi Ridho",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "polymer serve"
+  },
+  "dependencies": {
+    "@material/mwc-slider": "^0.18.0"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "latest",
+    "lit-element": "^2.4.0"
+  }
+}
