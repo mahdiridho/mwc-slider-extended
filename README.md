@@ -1,2 +1,15 @@
-# mwc-slider-extended
-extends the @material/mwc-slider to support floating point
+# webcomponents
+
+MWC Slider extended that supports to floating point
+
+## installation
+
+```
+npm i
+```
+
+## serve the demo
+
+```
+npm start
+```
